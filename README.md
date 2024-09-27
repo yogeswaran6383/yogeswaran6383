@@ -67,16 +67,6 @@ Recognized in the **Security Hall of Fame** for over 25 achievements, including:
 
 ---
 
-### 🤝 **Let’s Connect:**
-I am always open to collaborations, knowledge-sharing, and networking. Let's connect to enhance cybersecurity and contribute to a safer digital future. Feel free to reach out on any of the platforms below!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeswaran-m/)
-[![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Yogeshwaran2022)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yogeswaran.m)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yogeswaran.m.20)
-
----
-
 ### ⚡ **Top Skills:**
 - **Cybersecurity**: Protecting systems from cyber threats and attacks.
 - **Networking**: Designing and maintaining secure network infrastructures.
@@ -94,3 +84,13 @@ I am committed to strengthening digital defenses against evolving threats. With 
 ### 🔧 **Current Role:**
 **Cyber Security Engineer | Full-time**  
 Specializing in **Cybersecurity**, **Networking**, **Vulnerability Assessment and Penetration Testing (VAPT)**, and **System Safety**, I bring a multifaceted approach to digital defense, ensuring robust security across all domains.
+
+---
+
+### 🤝 **Let’s Connect:**
+I am always open to collaborations, knowledge-sharing, and networking. Let's connect to enhance cybersecurity and contribute to a safer digital future. Feel free to reach out on any of the platforms below!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeswaran-m/)
+[![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Yogeshwaran2022)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yogeswaran.m)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yogeswaran.m.20)
