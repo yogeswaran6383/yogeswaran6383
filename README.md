@@ -27,6 +27,28 @@ I am passionate about advancing a cyber-resilient world by staying at the forefr
 
 ---
 
+### 🏆 **Secure Organizations (70+):**
+I have contributed to securing over **70 organizations**, including:
+
+[![ZOHO](https://img.shields.io/badge/ZOHO-31A2DC?style=for-the-badge&logo=zoho&logoColor=white)](https://www.zoho.com)
+[![EC-Council](https://img.shields.io/badge/EC--Council-FF0000?style=for-the-badge&logo=ec-council&logoColor=white)](https://www.eccouncil.org)
+[![Marel](https://img.shields.io/badge/Marel-0078D4?style=for-the-badge&logo=marel&logoColor=white)](https://www.marel.com)
+[![Philips](https://img.shields.io/badge/Philips-0A75B9?style=for-the-badge&logo=philips&logoColor=white)](https://www.philips.com)
+[![Inholland](https://img.shields.io/badge/Inholland-860A2B?style=for-the-badge&logo=inholland&logoColor=white)](https://www.inholland.nl)
+[![Global](https://img.shields.io/badge/Global-1F77B4?style=for-the-badge&logo=global&logoColor=white)](https://www.global.com)
+
+---
+
+### 🎖️ **Security Hall of Fame (25+):**
+Recognized in the **Security Hall of Fame** for over 25 achievements, including:
+
+![Hall of Fame Example](https://via.placeholder.com/150)  
+![Hall of Fame Example](https://via.placeholder.com/150)  
+![Hall of Fame Example](https://via.placeholder.com/150)  
+<!-- Add your actual Hall of Fame images here -->
+
+---
+
 ### 🤝 **Let’s Connect:**
 I am always open to collaborations, knowledge-sharing, and networking. Let's connect to enhance cybersecurity and contribute to a safer digital future. Feel free to reach out on any of the platforms below!
 
