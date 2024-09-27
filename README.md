@@ -94,6 +94,7 @@ Specializing in **Cybersecurity**, **Networking**, **Vulnerability Assessment an
 ---
 
 ### 🤝 **Let’s Connect:**
+I am always open to collaborations, knowledge-sharing, and networking. Let's connect to enhance cybersecurity and contribute to a safer digital future. Feel free to reach out on any of the platforms below!
 
 <p>
     <a href="https://www.linkedin.com/in/yogeswaran-m/" target="_blank" rel="noopener noreferrer">
@@ -109,4 +110,3 @@ Specializing in **Cybersecurity**, **Networking**, **Vulnerability Assessment an
         <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
     </a>
 </p>
-
