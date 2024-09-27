@@ -43,25 +43,31 @@ I have contributed to securing over **70 organizations**, including:
 Recognized in the **Security Hall of Fame** for over 25 achievements, including:
 
 <!-- Row 1 -->
-![Hall of Fame Example](https://media.licdn.com/dms/image/v2/D5622AQF_pgi4MdO0EA/feedshare-shrink_800/feedshare-shrink_800/0/1727326560493?e=1730332800&v=beta&t=rlcs_OHe8ieB13c5iEzHSMVB9Mm7DXIWM2Ay-XHOcMQ)
-![Hall of Fame Example](https://via.placeholder.com/150)
-![Hall of Fame Example](https://via.placeholder.com/150)
-![Hall of Fame Example](https://via.placeholder.com/150)
-![Hall of Fame Example](https://via.placeholder.com/150)
+<p>
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQF_pgi4MdO0EA/feedshare-shrink_800/feedshare-shrink_800/0/1727326560493?e=1730332800&v=beta&t=rlcs_OHe8ieB13c5iEzHSMVB9Mm7DXIWM2Ay-XHOcMQ" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://via.placeholder.com/150" width="150" height="150">
+</p>
 
 <!-- Row 2 -->
-![Hall of Fame Example](https://via.placeholder.com/150)
-![Hall of Fame Example](https://via.placeholder.com/150)
-![Hall of Fame Example](https://via.placeholder.com/150)
-![Hall of Fame Example](https://via.placeholder.com/150)
-![Hall of Fame Example](https://via.placeholder.com/150)
+<p>
+    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://via.placeholder.com/150" width="150" height="150">
+</p>
 
 <!-- Row 3 -->
-![Hall of Fame Example](https://via.placeholder.com/150)
-![Hall of Fame Example](https://via.placeholder.com/150)
-![Hall of Fame Example](https://via.placeholder.com/150)
-![Hall of Fame Example](https://via.placeholder.com/150)
-![Hall of Fame Example](https://via.placeholder.com/150)
+<p>
+    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://via.placeholder.com/150" width="150" height="150">
+</p>
 
 <!-- Continue adding more rows as needed -->
 
