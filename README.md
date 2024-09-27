@@ -42,10 +42,28 @@ I have contributed to securing over **70 organizations**, including:
 ### 🎖️ **Security Hall of Fame (25+):**
 Recognized in the **Security Hall of Fame** for over 25 achievements, including:
 
-![Hall of Fame Example](https://via.placeholder.com/150)  
-![Hall of Fame Example](https://via.placeholder.com/150)  
-![Hall of Fame Example](https://via.placeholder.com/150)  
-<!-- Add your actual Hall of Fame images here -->
+<!-- Row 1 -->
+![Hall of Fame Example](https://via.placeholder.com/150)
+![Hall of Fame Example](https://via.placeholder.com/150)
+![Hall of Fame Example](https://via.placeholder.com/150)
+![Hall of Fame Example](https://via.placeholder.com/150)
+![Hall of Fame Example](https://via.placeholder.com/150)
+
+<!-- Row 2 -->
+![Hall of Fame Example](https://via.placeholder.com/150)
+![Hall of Fame Example](https://via.placeholder.com/150)
+![Hall of Fame Example](https://via.placeholder.com/150)
+![Hall of Fame Example](https://via.placeholder.com/150)
+![Hall of Fame Example](https://via.placeholder.com/150)
+
+<!-- Row 3 -->
+![Hall of Fame Example](https://via.placeholder.com/150)
+![Hall of Fame Example](https://via.placeholder.com/150)
+![Hall of Fame Example](https://via.placeholder.com/150)
+![Hall of Fame Example](https://via.placeholder.com/150)
+![Hall of Fame Example](https://via.placeholder.com/150)
+
+<!-- Continue adding more rows as needed -->
 
 ---
 
