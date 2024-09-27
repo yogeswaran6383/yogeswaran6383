@@ -94,9 +94,18 @@ Specializing in **Cybersecurity**, **Networking**, **Vulnerability Assessment an
 ---
 
 ### 🤝 **Let’s Connect:**
-I am always open to collaborations, knowledge-sharing, and networking. Let's connect to enhance cybersecurity and contribute to a safer digital future. Feel free to reach out on any of the platforms below!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogeswaran-m/)
-[![Twitter](https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Yogeshwaran2022)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yogeswaran.m)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yogeswaran.m.20)
+<p>
+    <a href="https://www.linkedin.com/in/yogeswaran-m/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://x.com/Yogeshwaran2022" target="_blank">
+        <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+    </a>
+    <a href="https://medium.com/@yogeswaran.m" target="_blank">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
+    </a>
+    <a href="https://tryhackme.com/p/yogeswaran.m.20" target="_blank">
+        <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe">
+    </a>
+</p>
