@@ -64,12 +64,6 @@ Recognized in the **Security Hall of Fame** for over 25 achievements, including:
     <img src="https://media.licdn.com/dms/image/v2/D5622AQE2PbdtFIy-9A/feedshare-shrink_800/feedshare-shrink_800/0/1715658395687?e=1730937600&v=beta&t=Ybam4Gs-gKYmAT17axJVu_yuLETWyz8vNgpQypd7kh8" width="150" height="150" style="margin-right: 40px;">
 </p>
 <p>
-    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
-    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
-    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
-    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
-</p>
-<p>
     <img src="https://media.licdn.com/dms/image/v2/D5622AQGhW6ZBOsS9Sg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1716182417607?e=1730937600&v=beta&t=92vFX0-5YmcNFNLDqU2x8dS_ePW_83PaJt9O6-dEBZM" width="150" height="150" style="margin-right: 40px;">
     <img src="https://media.licdn.com/dms/image/v2/D5622AQFL8v0TNnxOrw/feedshare-shrink_800/feedshare-shrink_800/0/1716784718157?e=1730937600&v=beta&t=4fGf2zP0kkxuPE0lPEoG6UwTxw4ZHyJPMbBxJMqgY-8" width="150" height="150" style="margin-right: 40px;">
     <img src="https://media.licdn.com/dms/image/v2/D5622AQFDvOZCVpX1Aw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1718253841991?e=1730937600&v=beta&t=_XFgPU45cJmX2zX8kbF79gfSFJHabbSq3J2loyuNC10" width="150" height="150" style="margin-right: 40px;">
