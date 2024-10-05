@@ -53,6 +53,36 @@ Recognized in the **Security Hall of Fame** for over 25 achievements, including:
 </p>
 <p>
     <img src="https://media.licdn.com/dms/image/v2/D4D22AQG9d3_dBQ9R8Q/feedshare-shrink_800/feedshare-shrink_800/0/1724907463877?e=1730332800&v=beta&t=gM3xivQx8laUoZR5icUBjkSftOG_FlwNxX7BSPSW5BM" width="150" height="150">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQFovR0YphIt0g/feedshare-shrink_800/feedshare-shrink_800/0/1713240431854?e=1730937600&v=beta&t=Fozw7N5YJm3CZG4qDnrhMOL-Rmn_hfVQChSIVtOROgk" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D22AQGQD67Jy64UZA/feedshare-shrink_800/feedshare-shrink_800/0/1714036836077?e=1730937600&v=beta&t=m_zr8ZRiMqrU08pdqPEHWlp994HQPVmJiX2U9gykNRg" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQGTuzchWbcN8g/feedshare-shrink_800/feedshare-shrink_800/0/1714378562909?e=1730937600&v=beta&t=crt8O1Qthqt3hRSJ3IvG8kHP1nvNCRYiJexQgQPsfTk" width="150" height="150" style="margin-right: 40px;">
+</p>
+<p>
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQHwBP_3cJ8LMg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1714542509370?e=1730937600&v=beta&t=3vSxtaMLy94qQ9YwuOpjdjMLBK5FTmrmGlK6ioG_inQ" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQHU3_jsr1yVig/feedshare-shrink_800/feedshare-shrink_800/0/1715056516342?e=1730937600&v=beta&t=KRiMrfuEdDPsLN8KdYy-Mt3kQXMsNLVTbIEOwnPJPUs" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQHh-xt3Xe7_Vw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1715406565725?e=1730937600&v=beta&t=lEAf4zveojzgG3S5fFkmitn9XU4vZ7UBIbKAJCse8OY" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQE2PbdtFIy-9A/feedshare-shrink_800/feedshare-shrink_800/0/1715658395687?e=1730937600&v=beta&t=Ybam4Gs-gKYmAT17axJVu_yuLETWyz8vNgpQypd7kh8" width="150" height="150" style="margin-right: 40px;">
+</p>
+<p>
+    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+</p>
+<p>
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQGhW6ZBOsS9Sg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1716182417607?e=1730937600&v=beta&t=92vFX0-5YmcNFNLDqU2x8dS_ePW_83PaJt9O6-dEBZM" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQFL8v0TNnxOrw/feedshare-shrink_800/feedshare-shrink_800/0/1716784718157?e=1730937600&v=beta&t=4fGf2zP0kkxuPE0lPEoG6UwTxw4ZHyJPMbBxJMqgY-8" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQFDvOZCVpX1Aw/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1718253841991?e=1730937600&v=beta&t=_XFgPU45cJmX2zX8kbF79gfSFJHabbSq3J2loyuNC10" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQHIjyaTe8sVkA/feedshare-shrink_800/feedshare-shrink_800/0/1719899432397?e=1730937600&v=beta&t=EjAfumeWSqtmOYlokGy8pwuTR6iFFNaSmjzZ7AtlMok" width="150" height="150" style="margin-right: 40px;">
+</p>
+<p>
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQGfoqhsT4Da2g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1720458108926?e=1730937600&v=beta&t=R8ECrnNmYcfvscDBuyMzprkhvLOmB7tRyA3oL_7okcg" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+</p>
+<p>
+    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
     <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
     <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
     <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
