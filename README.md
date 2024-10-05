@@ -71,13 +71,13 @@ Recognized in the **Security Hall of Fame** for over 25 achievements, including:
 </p>
 <p>
     <img src="https://media.licdn.com/dms/image/v2/D5622AQGfoqhsT4Da2g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1720458108926?e=1730937600&v=beta&t=R8ECrnNmYcfvscDBuyMzprkhvLOmB7tRyA3oL_7okcg" width="150" height="150" style="margin-right: 40px;">
-    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
-    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
-    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQFwegWRW0Rk_w/feedshare-shrink_800/feedshare-shrink_800/0/1720584771786?e=1730937600&v=beta&t=SBRV2ceX1HL9C_VYdy4EJm8yYh5vMJk-U_i1dBbSZsk" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQGDWZKpQrUV_g/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1721018547171?e=1730937600&v=beta&t=ggJ5GsPQgZG8gujwMMNzNJiiSNcic94PNO1bJxrY124" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQEPZEltyA-9tQ/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1722227571882?e=1730937600&v=beta&t=IShuelvVwpgUbawKXBhegDXh_u75mCDcTOK85uXHdbU" width="150" height="150" style="margin-right: 40px;">
 </p>
 <p>
-    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
-    <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQGXMHTvHNnJKA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1723008135782?e=1730937600&v=beta&t=F7oOgia_Hs8KhuQwmxO1fHy2ordYom9g-Y3_a7yQF2o" width="150" height="150" style="margin-right: 40px;">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQEvDRTJTHookA/feedshare-shrink_800/feedshare-shrink_800/0/1725803310627?e=1730937600&v=beta&t=MSFnu8IRZ2Td0MgRq3i-ybRIMfodaHSr-xxnL8gIYk0" width="150" height="150" style="margin-right: 40px;">
     <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
     <img src="https://via.placeholder.com/150" width="150" height="150" style="margin-right: 40px;">
 </p>
