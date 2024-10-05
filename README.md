@@ -42,10 +42,13 @@ I have contributed to securing over **70 organizations**, including:
 ### 🎖️ **Security Hall of Fame (25+):**
 Recognized in the **Security Hall of Fame** for over 25 achievements, including:
 
-<p>
-    <img src="https://media.licdn.com/dms/image/v2/D5622AQF_pgi4MdO0EA/feedshare-shrink_800/feedshare-shrink_800/0/1727326560493?e=1730332800&v=beta&t=rlcs_OHe8ieB13c5iEzHSMVB9Mm7DXIWM2Ay-XHOcMQ" width="150" height="150" style="margin-right: 50px;">
-    <img src="https://media.licdn.com/dms/image/v2/D5622AQFpuW3hFIkmSg/feedshare-shrink_800/feedshare-shrink_800/0/1726636332961?e=1730332800&v=beta&t=3nQ_e7q8-_IBeUGi1OWJdvA_pfIVvVKykY_4Jv9TsNw" width="150" height="150" style="margin-right: 50px;">
-    <img src="https://media.licdn.com/dms/image/v2/D5622AQEvDRTJTHookA/feedshare-shrink_800/feedshare-shrink_800/0/1725803310627?e=1730332800&v=beta&t=RWjAzlns09HuUtO7P06UgMChmlLcRvu_JvLlPcCSydc" width="150" height="150" style="margin-right: 20px;">
+<p style="display: flex; align-items: center;">
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQF_pgi4MdO0EA/feedshare-shrink_800/feedshare-shrink_800/0/1727326560493?e=1730332800&v=beta&t=rlcs_OHe8ieB13c5iEzHSMVB9Mm7DXIWM2Ay-XHOcMQ" width="150" height="150" style="margin-right: 40px;">
+    <span style="width: 40px;"></span>
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQFpuW3hFIkmSg/feedshare-shrink_800/feedshare-shrink_800/0/1726636332961?e=1730332800&v=beta&t=3nQ_e7q8-_IBeUGi1OWJdvA_pfIVvVKykY_4Jv9TsNw" width="150" height="150" style="margin-right: 40px;">
+    <span style="width: 40px;"></span>
+    <img src="https://media.licdn.com/dms/image/v2/D5622AQEvDRTJTHookA/feedshare-shrink_800/feedshare-shrink_800/0/1725803310627?e=1730332800&v=beta&t=RWjAzlns09HuUtO7P06UgMChmlLcRvu_JvLlPcCSydc" width="150" height="150" style="margin-right: 40px;">
+    <span style="width: 40px;"></span>
     <img src="https://media.licdn.com/dms/image/v2/D5622AQG6aIgvngvXVA/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1725336784522?e=1730332800&v=beta&t=BFSQFdAmkolxmukVWnYhT0XQ-dSHPm7SNguVvAbFgJg" width="150" height="150">
 </p>
 
