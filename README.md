@@ -1,7 +1,7 @@
 # 👋 Hi, I’m YOGESWARAN M
 
 🚀 **Cyber Security Engineer**  
-🔒 VAPT || Networking || System Safety || SOC Elastic & Wazuh || Penetration Tester || AWS EC2 & S3 || Bug Bounty Hunter || Security Researcher HOF 30+
+🔒 VAPT || Networking || System Safety || SOC Elastic & Wazuh || Penetration Tester || AWS EC2 & S3 || Bug Bounty Hunter || Security Researcher HOF 40+
 
 ---
 
