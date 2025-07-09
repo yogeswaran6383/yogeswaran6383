@@ -39,7 +39,7 @@ I have contributed to securing over **70 organizations**, including:
 
 ---
 
-### 🎖️ **Security Hall of Fame (30+):**
+### 🎖️ **Security Hall of Fame (40+):**
 
 ### ⚡ **Top Skills:**
 - **Cybersecurity**: Protecting systems from cyber threats and attacks.
